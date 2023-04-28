@@ -31,15 +31,12 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      // '/pages/01-introduccion',
-      // '/pages/02-clases',
-      // '/pages/03-encapsulamiento',
-      // '/pages/04-herencia',
-      // '/pages/05-polimorfismo',
-      // '/pages/06-abstraccion',
-      // '/pages/07-excepcion',
-      // '/pages/08-resumen',
-      // '/pages/09-batalla',
+      '/pages/01-introduccion',
+      '/pages/02-disenio-algoritmico',
+      '/pages/03-introduccion-a-la-programacion',
+      '/pages/04-control-de-flujo',
+      '/pages/05-funciones',
+      '/pages/06-organizacion-de-datos',
     ]
   },
   plugins: [

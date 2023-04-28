@@ -1,21 +1,26 @@
-# Introducción
-<!--
+# Bienvenidos
+
+
 <center>
-<img :src="$withBase('/img/pokemones.jpg')" width='500' style='margin:30px'/>
+<img :src="$withBase('/img/imagen-primer-plano-programador-trabajando-su-escritorio-oficina.jpg')" width='500' style='margin:30px'/>
 </center>
 
-¡Hey! ¿Te gustan los **Pokémon**? Si es así, estás en el lugar correcto. Hoy vamos a hablar de programación orientada a objetos, utilizando los **Pokémon** como referencia para nuestros ejemplos y ejercicios.
+### Programando soluciones: Diseño Algorítmico y Programación
 
-La programación orientada a objetos es un paradigma de programación muy popular que se basa en la idea de que todo en un programa es un objeto con propiedades y métodos que pueden interactuar con otros objetos. Y los **Pokémon** son el ejemplo perfecto para entender cómo funciona este paradigma.
+¡Hola a todos y todas! Bienvenidos a este curso donde vamos a aprender juntos cómo resolver problemas utilizando nuestra creatividad y las herramientas de programación. ¡Vamos a empezar a programar juntos!
 
-Imagina que los **Pokémon** son objetos, con sus propias características como su nombre, tipo, nivel de poder, ataque, defensa, velocidad, y así sucesivamente. Además, cada **Pokémon** puede realizar ciertas acciones como atacar, defenderse, curarse, entre otras.
+El curso se divide en seis temas que te llevarán desde los fundamentos de la lógica y la metodología de la programación, hasta la implementación de soluciones utilizando herramientas avanzadas de programación.
 
-En este contexto, la programación orientada a objetos nos permite modelar a los **Pokémon** como objetos, y luego crear clases que describen cómo deben comportarse esos objetos. También podemos utilizar herencia para crear subclases de **Pokémon** con diferentes habilidades y comportamientos.
+En el primer tema, nos enfocaremos en cómo analizar y diseñar soluciones utilizando la lógica y la metodología de la programación. ¡Vamos a poner a trabajar nuestros cerebros para resolver problemas!
 
-En resumen, utilizando los **Pokémon** como referencia, vamos a explorar cómo funciona la programación orientada a objetos, cómo crear objetos y clases en JavaScript, y cómo utilizar la herencia y el polimorfismo para crear comportamientos únicos para cada **Pokémon**. ¡Prepárate para atrapar todos los conceptos de POO en este viaje!
+En el segundo tema, es hora de empezar a programar. Aquí exploraremos los conceptos básicos y herramientas esenciales para que puedas empezar a escribir código y programar tus propias soluciones. ¡Hora de empezar a crear!
 
-<h4 style='text-align:center'>Editorial por ChatGPT</h4>
+En el tercer tema, vamos a profundizar en el diseño e implementación de soluciones utilizando un lenguaje de programación. Aquí aprenderás a implementar algoritmos que resuelvan problemas del mundo real. ¡Ponte las pilas para resolver problemas complejos!
 
+En el cuarto tema, te enseñaremos cómo seleccionar e implementar la estructura de control adecuada para la resolución de un problema específico. ¡Hora de tomar el control y optimizar tus programas!
 
+En el quinto tema, vamos a diseñar bloques de códigos reutilizables. ¡Más eficiencia, menos complejidad!
 
- -->
+Finalmente, en el sexto tema, te mostraremos cómo aplicar e implementar arreglos para organizar datos y resolver problemas más complejos. ¡Hora de organizarnos!
+
+¡Vamos a programar!
