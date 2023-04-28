@@ -37,6 +37,7 @@ module.exports = {
       '/pages/04-control-de-flujo',
       '/pages/05-funciones',
       '/pages/06-organizacion-de-datos',
+      '/pages/07-referencias',
     ]
   },
   plugins: [
