@@ -5,6 +5,8 @@
 <img :src="$withBase('/img/imagen-primer-plano-programador-trabajando-su-escritorio-oficina.jpg')" width='500' style='margin:30px'/>
 </center>
 
+> "La programación no se trata solo de codificar; se trata de crear un pensamiento lógico y resolución de problemas a través de algoritmos." – Douglas Crockford.
+
 ### Programando soluciones: Diseño Algorítmico y Programación
 
 ¡Hola a todos y todas! Bienvenidos a este curso donde vamos a aprender juntos cómo resolver problemas utilizando nuestra creatividad y las herramientas de programación. ¡Vamos a empezar a programar juntos!

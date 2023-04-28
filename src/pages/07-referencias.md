@@ -1,4 +1,4 @@
-¡Claro que sí! Aquí te dejo algunas referencias en español para cada tema:
+# Referencias
 
 1. Introducción
 - Conceptos básicos de programación: https://www.bbva.com/es/10-conceptos-basicos-de-programacion-que-tienes-que-conocer/
