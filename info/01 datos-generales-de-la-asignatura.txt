@@ -1,0 +1,16 @@
+Datos Generales de la asignatura
+Nombre de la asignatura:
+
+Clave de la asignatura:
+
+SATCA :
+
+
+Carrera:	Fundamentos de Programación
+
+AED-1285
+
+2-3-5
+
+
+Ingeniería en Sistemas Computacionales e Ingeniería en Animación Digital y Efectos Visuales

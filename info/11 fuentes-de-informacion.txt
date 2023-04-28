@@ -1,0 +1,23 @@
+1. Albert, R., y Breedlove, T. (2009) C++: An active learning approach. USA: Jones and Bartlett Publishers
+2. Brassard G.& et all. (Sin fecha). Fundamentos de Algoritmia. Pearson: Prentice Hall
+3. Cairo Battistutti, O., (2005), Metodología de la Programación, Algoritmos Diagrama de Flujo y Programas, Ciudad, Estado, Provincia, País: Alfaomega. ISBN 970-15-1100-X
+4. Cheng, H. H. (2010). C for engineers and scientists: An interpretive approach. USA: McGrawHill Higher Education
+5. Deitel, P y Deitel, H. (2008) Como Programar en C++. México:Pearson Prentice Hall.
+6. Deitel, J., y Deitel, M. (2012) C++: How to program. USA: Prentice Hall.
+7. Deitel, H. (2008). Java cómo programar. (7ª ed.) Prentice Hall México, 2008. ISBN 9789702611905
+8. García Molina, J.J., (2005), Introducción a la programación un Enfoque Algorítmico, Ciudad, Estado, Provincia, País: Paraninfo.
+9. Joyanes, L. (2012) Fundamentos generales de programación. España;McGraw Hill.
+10. Joyanes, L. (2008) Fundamentos de programación: algoritmos, estructura de datos y objetos. España: McGraw-Hill.
+11. Joyanes, L. (2010) Programación en C, C++, Java y UML. México: McGraw-Hill. ISBN 978- 970-10-6949-3.
+12. Joyanes, L., Fernández, M. y Rodríguez L. (2003) Fundamentos de Programación Libro de Problemas Algoritmos Estructura de Datos y Objetos. México:Mc. Graw Hill.
+13. Kamthane, N. (2011) Programming in C. India: Dorling Kindersley.
+14. López, L. (2011) Programación Estructurada y Orientada a Objetos México:Alfaomega.
+15. Marquez, G. (2012) Introducción a la programación estructurada en C. España:Pearson
+16. McMilan, M. (2011) Learning C++. USA: InfinateSkills.
+17. Méndez, A. (2013) Diseño de algoritmos y su programación en C. México:Alfaomega.
+18. Mothe, M. (2012) C++ programming: a practical approach. India: Dorling Kindersley.
+19. Urrutia, G. (2012) Curso de Programación en C para principiantes. España:@Gorka Urrutia
+20. Zavala, R y Llamas, R. (2013) Fundamentos de programación para principiantes. España:McGraw Hill.
+
+Electrónicas:
+21. Books.google (2003). Arreglos. Recuperado en Febrero de 2014. Disponible en: http://books.google.com.mx/books?id=tR7k9ga5CjoC&pg=PA246&lpg=PA246&dq=arreglos+ en+java&source=bl&ots=w84CRrTvHK&sig=4Lksg7a00XhhX6IpmRSTY7KdFUo&hl=es&sa=X&ei=LVv5UqjNO6bq2gXjrIEo&ved=0CCwQ6AEwATgK#v=onepage&q=arreglos%20en %20java&f=false

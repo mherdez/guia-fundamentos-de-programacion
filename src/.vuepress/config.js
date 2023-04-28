@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'docs',
-  base: '/fundamentos-de-programacion/',
+  base: '/guia-fundamentos-de-programacion/',
   lang: 'es-ES',
   title: 'Fundamentos de programación',
   description: 'Fundamentos de Programación. Herdez',

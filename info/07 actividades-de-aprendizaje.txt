@@ -1,0 +1,98 @@
+Introducción
+Competencias	Actividades de aprendizaje
+Específica(s):
+Conoce la metodología para resolver problemas utilizando la computadora.
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación.
+	•	Identificar los conceptos básicos de la lógica de programación para la resolución de problemas a través de la elaboración de un reporte.
+•	Resuelve ejercicios empleando la lógica de programación en la solución de problemas.
+•	Realizar un cuadro conceptual de la estructura básica de un programa.
+•	Analizar la metodología para la resolución de problemas computacionales en un caso de uso.
+
+Diseño algorítmico
+Competencias 	Actividades de aprendizaje
+Específica(s):
+Conoce el concepto de algoritmo y su representación en la solución de problemas.
+
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación. 	•	Gestionar información sobre los conceptos básicos: algoritmo, programa, programación, paradigmas de programación, tipo de dato, constante, variable, operadores, diagrama de flujo, seudocódigo y plasmarlos en un glosario.
+•	Gestionar información sobre los tipos de datos en un lenguaje de programación y elaborar una tabla.
+•	Gestionar información sobre la simbología de las herramientas para representar un algoritmo: Diagrama de Flujo y Pseudocódigo. Elaborar un resumen ejemplificando.
+•	Representar mediante diagrama de flujo o seudocódigo problemas cotidianos a partir de un problemario y elaborar una antología.
+Diseño algorítmico
+Competencias 	Actividades de aprendizaje
+Específica(s):
+Aplica expresiones algorítmicas de un lenguaje de programación para resolver problemas matemáticos.
+
+Genéricas:
+•	Habilidad para buscar y analizar información proveniente de fuentes diversas.
+•	Capacidad de análisis y síntesis
+•	Habilidad en el manejo de equipo de cómputo
+•	Capacidad para trabajar en equipo.
+•	Capacidad de investigación.
+•	Capacidad de aplicar los conocimientos en la práctica.	•	Gestionar información sobre los conceptos básicos: algoritmo, programa, programación, paradigmas de programación, tipo de dato, constante, variable, operadores, diagrama de flujo, seudocódigo y plasmarlos en un glosario.
+•	Gestionar información sobre los tipos de datos en un lenguaje de programación y elaborar una tabla.
+•	Gestionar información sobre la simbología de las herramientas para representar un algoritmo: Diagrama de Flujo y Pseudocódigo. Elaborar un resumen ejemplificando.
+•	Representar mediante diagrama de flujo o seudocódigo problemas cotidianos a partir de un problemario y elaborar una antología.
+Introducción a la programación
+Competencias 	Actividades de aprendizaje
+Específica(s):
+Aplica expresiones algorítmicas de un lenguaje de programación para resolver problemas matemáticos.
+
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación.	•	Identificar las características de los diferentes lenguajes de programación que correspondan al paradigma de estudio y elaborar cuadro comparativo.
+•	Elegir un lenguaje de programación e instalar y configurar las herramientas correspondientes para su uso, auxiliándose de algún tutorial, presentar el entorno funcionando en clase.
+•	Identificar tipos de datos, literales, constantes, variables, identificadores, operadores y salida de datos propios del lenguaje de programación a través de una investigación y elaborar un reporte.
+•	Aplicar las herramientas de programación, retomando un algoritmo planteado en el tema anterior, para su codificación, compilación, enlace, ejecución e identificación de errores, elaborar un reporte que incluya el código, los resultados de ejecución y exponerlo.
+•	Analizar un programa completo donde identifique los elementos básicos (estructura y sintaxis) del lenguaje, documentando cada instrucción con comentarios.
+•	Aplicar expresiones lógicas y algebraicas, para la solución de problemas, elaborar un reporte que incluya el código, los resultados de ejecución y exponerlo.
+
+Control de flujo
+Específica(s):
+Aplica las estructuras condicionales y repetitivas de un lenguaje de programación para resolver problemas.
+
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación.	•	Investigar sobre la sintaxis, funcionamiento y aplicación de las estructuras de selección y de repetición realizar un cuadro comparativo sobre las estructuras de repetición.
+•	Ejemplificar en programas que resuelvan problemas reales, discutirlo en grupo.
+•	Realizar práctica de ejercicios, donde se utilicen las estructuras secuencial, selectiva e iterativa desarrollando algoritmo y programa, presentarlo y discutirlo en grupo
+
+Modularidad
+Específica(s):
+Aplica el concepto de funciones de un lenguaje de programación para disminuir la complejidad de la solución de un problema.
+
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación.	•	Investigar las ventajas, desventajas, estructura y usos de la programación modular y presentar un reporte.
+•	Gestionar información sobre la declaración y el uso de métodos o funciones y presentarla en un resumen.
+•	Identificar la diferencia entre parámetros y argumentos, su estructura e importancia, mediante una investigación bibliográfica, presentando ejemplos de programas en exposición grupal.
+•	Realizar una práctica de ejercicios que involucren la implementación de métodos o funciones con pase de parámetros en la resolución de problemas del contexto, documentar y exponer.
+Organización de datos
+Específica(s):
+Aplica estructuras de datos de un lenguaje de programación que permitan la organización de datos en la resolución de problemas.
+
+Genéricas:
+•	Habilidades de gestión de información (habilidad para buscar y analizar información proveniente de fuentes diversas).
+•	Capacidad de análisis y síntesis.
+•	Capacidad de comunicación oral y escrita.
+•	Capacidad de aplicar los conocimientos en la práctica
+•	Habilidades en el uso de las tecnologías de la información y de la comunicación.	•	Identificar las estructuras de datos: registros y arreglos unidimensionales, bidimensionales, multidimensionales y plasmarla en un cuadro sinóptico.
+•	Realizar ejercicios donde se apliquen las estructuras de datos.

@@ -1,0 +1,15 @@
+La asignatura se organiza en seis temas donde se abordan los conceptos esenciales del diseño algorítmico y de la programación, así como el uso de entornos de desarrollo.
+
+El primer tema aborda los fundamentos de la lógica y de la metodología de la programación para la resolución de problemas.
+
+En el segundo tema, se estudian los conceptos básicos para introducir al estudiante en la programación con la finalidad de obtener el fundamento conceptual para el análisis, diseño y desarrollo de algoritmos, así como los primeros pasos al mundo de la programación a través de ejercicios dirigidos. En este tema es fundamental propiciar el pensamiento lógico del estudiante.
+
+El tercer tema, tiene la finalidad de propiciar que el estudiante adquiera los conocimientos necesarios para diseñar e implementar soluciones en un lenguaje de programación y resolver problemas del contexto.
+
+El cuarto tema, tiene como objetivo que se comprenda, seleccione e implemente la estructura de control adecuada para la resolución de un problema específico.
+
+El quinto tema tiene como finalidad que el estudiante implemente el diseño de bloques de códigos reutilizables, que optimizan la funcionalidad y reducen la complejidad de los programas desarrollados.
+
+El sexto tema, se buscará propiciar la capacidad de aplicar e implementar los arreglos para proporcionar un medio eficaz en la organización de datos para la resolución de problemas reales.
+
+Para cada uno de los temas se sugiere que el docente promueva la práctica a través de herramientas computacionales que propicien la habilidad en el desarrollo de programas.

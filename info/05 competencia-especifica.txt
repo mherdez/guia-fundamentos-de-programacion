@@ -1,0 +1,1 @@
+Aplica una metodología para resolver problemas con la computadora, usando el paradigma de programación estructurada.
