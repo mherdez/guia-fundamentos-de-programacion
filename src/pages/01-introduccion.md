@@ -63,3 +63,83 @@ La fase de prueba es el proceso de verificar que el programa funciona según lo 
 La fase de mantenimiento es el proceso de realizar cambios y actualizaciones en el programa después de su entrega. En esta fase se corrigen errores, se agregan nuevas funciones y se actualizan las bibliotecas y los archivos de encabezado. Es importante tener en cuenta que la fase de mantenimiento es una parte crítica del ciclo de vida del programa y debe ser cuidadosamente planificada y documentada.
 
 En conclusión, el ciclo de vida de un programa es una metodología efectiva para la resolución de problemas computacionales. Las fases de análisis, diseño, implementación, prueba y mantenimiento son fundamentales para la creación de programas efectivos y eficientes. Es importante tener en cuenta que cada fase debe ser cuidadosamente planificada y documentada para garantizar el éxito del programa.
+
+
+
+¡Claro! A continuación, te presento una clase para introducir los conceptos básicos de la programación, la lógica de programación, la estructura básica de un programa y la metodología para la resolución de problemas computacionales:
+
+**Clase: Introducción a los Fundamentos de Programación**
+
+**Objetivos:**
+- Comprender los conceptos básicos de programación.
+- Conocer la lógica de programación y la estructura básica de un programa.
+- Aprender la metodología para la resolución de problemas computacionales.
+
+**Contenido:**
+
+1.1 Conceptos básicos
+
+1.1.1 ¿Qué es la programación?
+- La programación es el proceso de diseñar, escribir, probar y mantener el código fuente de un programa informático.
+
+1.1.2 ¿Qué es un programa informático?
+- Un programa informático es un conjunto de instrucciones que le dice a una computadora qué hacer.
+
+1.1.3 ¿Qué es un lenguaje de programación?
+- Un lenguaje de programación es un conjunto de reglas sintácticas y semánticas que permiten a los programadores escribir código fuente que una computadora puede entender y ejecutar.
+
+1.2 Lógica de programación
+
+1.2.1 ¿Qué es la lógica de programación?
+- La lógica de programación es el proceso de diseñar y desarrollar algoritmos para resolver problemas computacionales.
+
+1.2.2 ¿Qué es un algoritmo?
+- Un algoritmo es un conjunto de instrucciones bien definidas y ordenadas que resuelven un problema o realizan una tarea específica.
+
+1.2.3 ¿Qué es la resolución de problemas computacionales?
+- La resolución de problemas computacionales es el proceso de identificar un problema, diseñar un algoritmo para resolverlo y escribir un programa informático que implemente el algoritmo.
+
+1.3 Estructura básica de un programa
+
+1.3.1 ¿Cuáles son las partes básicas de un programa informático?
+- Las partes básicas de un programa informático son: la declaración de variables, las instrucciones de entrada y salida, las instrucciones de control de flujo y las instrucciones de procesamiento.
+
+1.3.2 ¿Qué es una declaración de variable?
+- Una declaración de variable es una instrucción que reserva un espacio de memoria en la computadora para almacenar un valor o dato.
+
+1.3.3 ¿Qué son las instrucciones de entrada y salida?
+- Las instrucciones de entrada y salida son aquellas que permiten al usuario interactuar con el programa, ingresando datos y viendo los resultados de la ejecución.
+
+1.3.4 ¿Qué son las instrucciones de control de flujo?
+- Las instrucciones de control de flujo son aquellas que permiten al programador controlar el orden de ejecución de las instrucciones dentro del programa, mediante el uso de estructuras de control de flujo como condicionales y bucles.
+
+1.3.5 ¿Qué son las instrucciones de procesamiento?
+- Las instrucciones de procesamiento son aquellas que realizan cálculos o manipulaciones de datos en el programa.
+
+1.4 Metodología para la resolución de problemas computacionales: ciclo de vida de un programa
+
+1.4.1 ¿Qué es el ciclo de vida de un programa?
+- El ciclo de vida de un programa es el proceso completo de desarrollo, implementación y mantenimiento de un programa informático, desde la identificación del problema hasta la entrega del software final.
+
+1.4.2 ¿Cuáles son las etapas del ciclo de vida de un programa?
+- Las etapas del ciclo de vida de un programa son:
+  1. Identificación del problema
+  2. Análisis de requisitos
+  3. Diseño del programa
+  4. Codificación del programa
+  5. Pruebas y depuración
+  6. Implementación del programa
+  7. Mantenimiento del programa
+
+1.4.3 ¿Qué sucede en cada etapa del ciclo de vida de un programa?
+- En la identificación del problema, se define el problema que se quiere resolver.
+- En el análisis de requisitos, se determinan los requisitos y objetivos del programa.
+- En el diseño del programa, se planifica la solución al problema y se crean diagramas y modelos.
+- En la codificación del programa, se escribe el código fuente del programa.
+- En las pruebas y depuración, se asegura que el programa funcione correctamente y se corrigen errores.
+- En la implementación del programa, se entrega el software final al usuario.
+- En el mantenimiento del programa, se realizan actualizaciones y correcciones para garantizar que el programa siga funcionando correctamente.
+
+**Conclusiones:**
+
+En esta clase hemos aprendido los conceptos básicos de la programación, la lógica de programación, la estructura básica de un programa y la metodología para la resolución de problemas computacionales. Hemos visto que la programación es el proceso de diseñar y escribir código fuente que le dice a una computadora qué hacer, y que para resolver problemas computacionales necesitamos diseñar algoritmos. Además, hemos aprendido que un programa informático tiene diferentes partes, como la declaración de variables, las instrucciones de entrada y salida, las instrucciones de control de flujo y las instrucciones de procesamiento. Finalmente, hemos conocido el ciclo de vida de un programa, que consta de siete etapas y nos guía en el proceso completo de desarrollo, implementación y mantenimiento del software.
