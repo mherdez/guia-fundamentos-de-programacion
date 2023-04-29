@@ -1,6 +1,5 @@
 # Bienvenidos
 
-
 <center>
 <img :src="$withBase('/img/imagen-primer-plano-programador-trabajando-su-escritorio-oficina.jpg')" width='500' style='margin:30px'/>
 </center>
